@@ -7,3 +7,4 @@ data/silver_I.csv filter=lfs diff=lfs merge=lfs -text
 data/gold_II.csv filter=lfs diff=lfs merge=lfs -text
 data/silver_cleaned_II.csv filter=lfs diff=lfs merge=lfs -text
 data/silver_II.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
