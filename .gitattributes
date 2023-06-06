@@ -1,0 +1,9 @@
+data/bronze_cleaned.csv filter=lfs diff=lfs merge=lfs -text
+data/bronze.csv filter=lfs diff=lfs merge=lfs -text
+data/gold_I.csv filter=lfs diff=lfs merge=lfs -text
+data/online_retail_II.xlsx filter=lfs diff=lfs merge=lfs -text
+data/silver_cleaned_I.csv filter=lfs diff=lfs merge=lfs -text
+data/silver_I.csv filter=lfs diff=lfs merge=lfs -text
+data/gold_II.csv filter=lfs diff=lfs merge=lfs -text
+data/silver_cleaned_II.csv filter=lfs diff=lfs merge=lfs -text
+data/silver_II.csv filter=lfs diff=lfs merge=lfs -text
